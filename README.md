@@ -28,3 +28,27 @@ Please contact the course instructors via email in case you are registered for t
 
 Start your assignment [here](Exercise-1.ipynb).
 <!-- #endregion -->
+
+## Grading
+
+### Written
+
+**Points:**
+
+- Answers to the question(s): 5/5 points
+- Reflection against literature + materials: 1/3 points
+- Fluency / clarity of the text: 1/1 point
+- Appropriate citation practices used: 0/1 point
+
+### Programming
+
+**Points:**
+
+- Problem 1: 5/5 points
+- Problem 2: 2/2 points
+- Problem 3: 2/2 points
+- Problem 4: 1/1 points
+
+Comments:
+
+Brilliant! :)
